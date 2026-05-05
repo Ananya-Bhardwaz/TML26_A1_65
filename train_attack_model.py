@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-
 import random
 from pathlib import Path
 
